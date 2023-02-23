@@ -6,3 +6,4 @@ Put another way is same to in other words.
 ## The go.mod file is line-oriented
 ## Type declarations come in two forms: alias declarations and type definitions.
 ## An identifier may be exported to permit access to it from another package.
+## It is by no means all encompassing, but intended to focus on the basic ideas needed to understand etcd without the distraction of less common API calls.
