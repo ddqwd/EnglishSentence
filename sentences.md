@@ -4,3 +4,4 @@ The exceptions to this
 Put another way is same to in other words.
 ## In contexts where word splitting is performed, this expands each positional parameter to a separate word; 
 ## The go.mod file is line-oriented
+## Type declarations come in two forms: alias declarations and type definitions.
