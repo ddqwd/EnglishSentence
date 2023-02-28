@@ -8,3 +8,5 @@ Put another way is same to in other words.
 ## An identifier may be exported to permit access to it from another package.
 ## It is by no means all encompassing, but intended to focus on the basic ideas needed to understand etcd without the distraction of less common API calls.
 by all means : sure ,certainly
+## A new message queue is created if key has the value IPC_PRIVATE or key isn't IPC_PRIVATE, no message queue with the given key key
+       exists, and IPC_CREAT is specified in msgflg.
