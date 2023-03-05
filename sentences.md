@@ -10,3 +10,6 @@ Put another way is same to in other words.
 by all means : sure ,certainly
 ## A new message queue is created if key has the value IPC_PRIVATE or key isn't IPC_PRIVATE, no message queue with the given key key
        exists, and IPC_CREAT is specified in msgflg.
+## This standard has been incorporated into the latest revision of POSIX 1003.1 and thus a POSIX.2 standard no longer exists.
+## POSIX is an acronym for Portable Operating System Interface.
+
