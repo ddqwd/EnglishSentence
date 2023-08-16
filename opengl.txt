@@ -1,0 +1,2 @@
+The characteristics of a good texture
+compression algorithm are that it does not reduce the fidelity（准确度） of an image too much
